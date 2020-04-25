@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Miaumerah</string>
+    <string name="title_header">Miaumerah Memanggil</string>
+    <string name="todo">TODO</string>
+    <string name="portal_desa">Portal Desa</string>
+    <string name="pengumuman">Pengumuman</string>
+    <string name="layanan_mandiri">Layanan Mandiri</string>
+    <string name="panduan">Panduan Layanan Warga</string>
+    <string name="sop">Sop Pemerintahan Desa</string>
+    <string name="adminDesa">Admin Desa</string>
+</resources>

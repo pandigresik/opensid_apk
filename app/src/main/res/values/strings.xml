@@ -1,11 +1,21 @@
 <resources>
     <string name="app_name">Miaumerah</string>
-    <string name="title_header">Miaumerah Memanggil</string>
+    <string name="title_header">Desa Miaumerah</string>
     <string name="todo">TODO</string>
     <string name="portal_desa">Portal Desa</string>
     <string name="pengumuman">Pengumuman</string>
-    <string name="layanan_mandiri">Layanan Mandiri</string>
-    <string name="panduan">Panduan Layanan Warga</string>
-    <string name="sop">Sop Pemerintahan Desa</string>
+    <string name="layanan_mandiri">Layanan</string>
+    <string name="panduan">Panduan</string>
+    <string name="sop">Sop / Perdes</string>
     <string name="adminDesa">Admin Desa</string>
+
+    <string name="title_activity_splashscreen">SplashscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="nama_desa">Miaumerah</string>
+    <string name="nama_kabupaten">Kabupaten Kapuas Hulu</string>
+    <string name="info_footer">Pemerintah Desa Miaumerah \n  www.miaumerah.desa.id \n  Supported by Portal Desa Digital  \n Pendamping: Fathurrahman</string>
+    <string name="covid">Covid 19</string>
+    <string name="pin">Pin</string>
+    <string name="jadwal">Jadwal</string>
 </resources>
